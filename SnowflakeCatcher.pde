@@ -37,7 +37,7 @@ class Snowflake
   Snowflake()
   {
     x = (int)(Math.random()*800);
-    y = (int)(Math.random()*80);
+    y = (int)(Math.random()*160);
     isMoving = true;//class member variable initializations
   }
   void show()
